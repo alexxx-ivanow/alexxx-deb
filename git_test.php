@@ -1,0 +1,2 @@
+<?
+echo 'git_test';
