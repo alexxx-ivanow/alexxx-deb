@@ -1,0 +1,11 @@
+/bitrix
+/upload
+
+/.well-known
+/web.config
+
+.htaccess
+robots.txt
+
+.DS_Store
+Thumbs.db
